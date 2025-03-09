@@ -1,0 +1,44 @@
+S: 5%
+Huge Power
+Pure Power
+Speed Boost
+Arena Trap
+Adaptability
+Shadow Tag
+Wonder Guard
+
+A: 10%
+Levitate
+Magic Guard
+Intimidate
+Drought
+Drizzle
+Technician
+No Guard
+Serene Grace
+Snow Warning
+Natural Cure
+
+B:40%
+Water Absorb
+Thick Fat
+Hustle
+Skill Link
+Harvest
+Solar Power
+Sniper
+Rain Dish
+Oblivious
+Rock Head
+
+C:45%
+Swarm
+Water Veil
+Ice Body
+Leaf Guard
+Poison Point
+Shell Armor
+Pressure
+Static
+Air Lock
+Sand Veil

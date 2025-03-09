@@ -1,0 +1,254 @@
+UR (Perfect IVs):
+Breloom
+Ability: Pure Power
+EVs: 252 Spe
+Adamant Nature
+- Spore
+- Seed Bomb
+- Mach Punch
+
+Latias @ Soul Dew
+Ability: Levitate
+Timid Nature
+- Cut
+
+Honchkrow
+Ability: Speed Boost
+EVs: 252 Atk / 252 Spe
+Naughty Nature
+- Brave Bird
+- Sucker Punch
+- Protect
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 252 HP
+Impish Nature
+- Swords Dance
+- Earthquake
+- Roost
+
+Staraptor @ Life Orb
+Ability: Reckless
+EVs: 252 Spe
+Adamant Nature
+- Head Smash
+- Brave Bird
+
+Mismagius 
+Ability: Shadow Tag
+EVs: 100 SpA / 252 Spe
+Timid Nature
+- Perish Song
+- Will-O-Wisp
+- Shadow Ball
+
+SR (Randomize, then choose 3 Perfect IVs):
+
+Blissey @ Leftovers
+Ability: Natural Cure
+Bold Nature
+- Soft-Boiled
+- Seismic Toss
+- Thunder Wave
+
+Mantine @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 36 Def / 220 SpD
+Calm Nature
+- Roost
+- Toxic
+- Ice Beam
+
+Shedinja @ Quick Claw
+Ability: No Guard
+Jolly Nature
+- Shadow Sneak
+- Guillotine
+
+Glaceon @ Choice Scarf
+Ability: Snow Warning
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Blizzard
+- Earth Power
+- Thunderbolt
+
+Mawile @ Life Orb
+Ability: Simple
+EVs: 252 HP
+Jolly Nature
+- Dragon Dance
+- Iron Head
+- Sucker Punch
+
+Porygon-Z
+Ability: Adaptability
+EVs: 252 SpA
+Modest Nature
+- Judgment
+- Dark Pulse
+- Ice Beam
+
+Rhyperior
+Ability: Water Absorb
+EVs: 252 HP
+Adamant Nature
+- Earthquake
+- Stone Edge
+- Megahorn
+
+Gardevoir
+Ability: Compound Eyes
+EVs: 252 Spe
+Timid Nature
+- Will-O-Wisp
+- Focus Blast
+- Psychic
+
+Torkoal 
+Ability: Drought
+Bold Nature
+- Solar Beam
+- Lava Plume
+- Recover
+
+R (randomize, then you can choose one stat to Perfect IV):
+Shuckle
+Ability: Sturdy
+Impish Nature
+- Power Trick
+- Trick Room
+- Attack Order
+
+Swellow @ Flame Orb
+Ability: Guts
+Jolly Nature
+- Facade
+- Brave Bird
+- Quick Attack
+
+Tangrowth
+Ability: Chlorophyll
+EVs: 252 HP
+Relaxed Nature
+- Power Whip
+- Synthesis
+- Earthquake
+
+Dusclops
+Ability: Pressure
+Impish Nature
+- Will-O-Wisp
+- Pain Split
+- Protect
+
+Skuntank
+Ability: Aftermath
+Adamant Nature
+- Pursuit
+- Sucker Punch
+- Crunch
+
+Shiftry
+Ability: Chlorophyll
+Adamant Nature
+- Swords Dance
+- Seed Bomb
+- Sucker Punch
+
+Medicham
+Ability: Pure Power
+Jolly Nature
+- High Jump Kick
+- Zen Headbutt
+- Fake Out
+
+Marowak @ Thick Club
+Ability: Rock Head
+Adamant Nature
+- Dig
+- Stone Edge
+- Double-Edge
+
+Lickilicky
+Ability: Own Tempo
+Careful Nature
+- Wish
+- Protect
+- Toxic
+
+Sharpedo
+Ability: Rough Skin
+Adamant Nature
+- Crunch
+- Waterfall
+- Aqua Jet
+
+Dodrio
+Ability: Early Bird
+Jolly Nature
+- Brave Bird
+- Return
+- Quick Attack
+
+Common (Random IV):
+Sunflora
+Ability: Chlorophyll
+Modest Nature
+- Solar Beam
+- Sunny Day
+
+Swalot 
+Ability: Liquid Ooze
+Calm Nature
+- Encore
+- Sludge Bomb
+
+Lopunny 
+Ability: Klutz
+Jolly Nature
+- Switcheroo
+- Encore
+
+Magcargo 
+Ability: Flame Body
+Bold Nature
+- Recover
+- Flamethrower
+
+Walrein
+Ability: Ice Body
+Bold Nature
+- Substitute
+- Surf
+
+Zangoose
+Ability: Immunity
+Jolly Nature
+- Swords Dance
+- Close Combat
+
+Tropius
+Ability: Chlorophyll
+Bold Nature
+- Roost
+- Leaf Storm
+
+Purugly
+Ability: Thick Fat
+Adamant Nature
+- Fake Out
+- U-Turn
+
+Seaking 
+Ability: Swift Swim
+Lonely Nature
+- Waterfall
+- Megahorn
+
+Fearow 
+Ability: Keen Eye
+Jolly Nature
+- Brave Bird
+- Return
