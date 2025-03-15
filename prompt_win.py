@@ -31,7 +31,7 @@ class Prompt:
     def render(self):
         self.con_man.banner("Welcome to Kofu's custom SGSS pack simulator!")
 
-        self.sprite_renderer.render_sprites_centered(["ho-oh", "lugia"], 5)
+        print(self.sprite_renderer.render_sprites_centered(["ho-oh", "lugia"], 5))
                
         promptstr = ""
         for i in range(len(self.choices)):

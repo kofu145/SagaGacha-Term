@@ -1,4 +1,4 @@
-UR (Perfect IVs):
+split
 Breloom
 Ability: Pure Power
 EVs: 252 Spe
@@ -15,7 +15,7 @@ Timid Nature
 Honchkrow
 Ability: Speed Boost
 EVs: 252 Atk / 252 Spe
-Naughty Nature
+Adamant Nature
 - Brave Bird
 - Sucker Punch
 - Protect
@@ -43,8 +43,7 @@ Timid Nature
 - Will-O-Wisp
 - Shadow Ball
 
-SR (Randomize, then choose 3 Perfect IVs):
-
+split
 Blissey @ Leftovers
 Ability: Natural Cure
 Bold Nature
@@ -113,7 +112,7 @@ Bold Nature
 - Lava Plume
 - Recover
 
-R (randomize, then you can choose one stat to Perfect IV):
+split
 Shuckle
 Ability: Sturdy
 Impish Nature
@@ -192,7 +191,7 @@ Jolly Nature
 - Return
 - Quick Attack
 
-Common (Random IV):
+split
 Sunflora
 Ability: Chlorophyll
 Modest Nature

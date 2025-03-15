@@ -1,0 +1,47 @@
+{
+    "UR": [
+      "Breloom\nAbility: Pure Power\nEVs: 252 Spe\nAdamant Nature\n- Spore\n- Seed Bomb\n- Mach Punch",
+      "Latias @ Soul Dew\nAbility: Levitate\nTimid Nature\n- Cut",
+      "Honchkrow\nAbility: Speed Boost\nEVs: 252 Atk / 252 Spe\nAdamant Nature\n- Brave Bird\n- Sucker Punch\n- Protect",
+      "Gliscor @ Toxic Orb\nAbility: Poison Heal\nEVs: 252 HP\nImpish Nature\n- Swords Dance\n- Earthquake\n- Roost",
+      "Staraptor @ Life Orb\nAbility: Reckless\nEVs: 252 Spe\nAdamant Nature\n- Head Smash\n- Brave Bird",
+      "Mismagius \nAbility: Shadow Tag\nEVs: 100 SpA / 252 Spe\nTimid Nature\n- Perish Song\n- Will-O-Wisp\n- Shadow Ball"
+    ],
+    "SR": [
+      "Blissey @ Leftovers\nAbility: Natural Cure\nBold Nature\n- Soft-Boiled\n- Seismic Toss\n- Thunder Wave",
+      "Mantine @ Leftovers\nAbility: Regenerator\nEVs: 252 HP / 36 Def / 220 SpD\nCalm Nature\n- Roost\n- Toxic\n- Ice Beam",
+      "Shedinja @ Quick Claw\nAbility: No Guard\nJolly Nature\n- Shadow Sneak\n- Guillotine",
+      "Glaceon @ Choice Scarf\nAbility: Snow Warning\nEVs: 4 HP / 252 SpA / 252 Spe\nTimid Nature\n- Blizzard\n- Earth Power\n- Thunderbolt",
+      "Mawile @ Life Orb\nAbility: Simple\nEVs: 252 HP\nJolly Nature\n- Dragon Dance\n- Iron Head\n- Sucker Punch",
+      "Porygon-Z\nAbility: Adaptability\nEVs: 252 SpA\nModest Nature\n- Judgment\n- Dark Pulse\n- Ice Beam",
+      "Rhyperior\nAbility: Water Absorb\nEVs: 252 HP\nAdamant Nature\n- Earthquake\n- Stone Edge\n- Megahorn",
+      "Gardevoir\nAbility: Compound Eyes\nEVs: 252 Spe\nTimid Nature\n- Will-O-Wisp\n- Focus Blast\n- Psychic",
+      "Torkoal \nAbility: Drought\nBold Nature\n- Solar Beam\n- Lava Plume\n- Recover"
+  
+    ],
+    "R": [
+      "Shuckle\nAbility: Sturdy\nImpish Nature\n- Power Trick\n- Trick Room\n- Attack Order",
+      "Swellow @ Flame Orb\nAbility: Guts\nJolly Nature\n- Facade\n- Brave Bird\n- Quick Attack",
+      "Tangrowth\nAbility: Chlorophyll\nEVs: 252 HP\nRelaxed Nature\n- Power Whip\n- Synthesis\n- Earthquake",
+      "Dusclops\nAbility: Pressure\nImpish Nature\n- Will-O-Wisp\n- Pain Split\n- Protect",
+      "Skuntank\nAbility: Aftermath\nAdamant Nature\n- Pursuit\n- Sucker Punch\n- Crunch",
+      "Shiftry\nAbility: Chlorophyll\nAdamant Nature\n- Swords Dance\n- Seed Bomb\n- Sucker Punch",
+      "Medicham\nAbility: Pure Power\nJolly Nature\n- High Jump Kick\n- Zen Headbutt\n- Fake Out",
+      "Marowak @ Thick Club\nAbility: Rock Head\nAdamant Nature\n- Dig\n- Stone Edge\n- Double-Edge",
+      "Lickilicky\nAbility: Own Tempo\nCareful Nature\n- Wish\n- Protect\n- Toxic",
+      "Sharpedo\nAbility: Rough Skin\nAdamant Nature\n- Crunch\n- Waterfall\n- Aqua Jet",
+      "Dodrio\nAbility: Early Bird\nJolly Nature\n- Brave Bird\n- Return\n- Quick Attack"
+    ],
+    "C": [
+      "Sunflora\nAbility: Chlorophyll\nModest Nature\n- Solar Beam\n- Sunny Day",
+      "Swalot \nAbility: Liquid Ooze\nCalm Nature\n- Encore\n- Sludge Bomb",
+      "Lopunny \nAbility: Klutz\nJolly Nature\n- Switcheroo\n- Encore",
+      "Magcargo \nAbility: Flame Body\nBold Nature\n- Recover\n- Flamethrower",
+      "Walrein\nAbility: Ice Body\nBold Nature\n- Substitute\n- Surf",
+      "Zangoose\nAbility: Immunity\nJolly Nature\n- Swords Dance\n- Close Combat",
+      "Tropius\nAbility: Chlorophyll\nBold Nature\n- Roost\n- Leaf Storm",
+      "Purugly\nAbility: Thick Fat\nAdamant Nature\n- Fake Out\n- U-Turn",
+      "Seaking \nAbility: Swift Swim\nLonely Nature\n- Waterfall\n- Megahorn",
+      "Fearow \nAbility: Keen Eye\nJolly Nature\n- Brave Bird\n- Return"
+    ]
+  }

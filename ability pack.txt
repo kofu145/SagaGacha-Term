@@ -1,4 +1,4 @@
-S: 5%
+UR:
 Huge Power
 Pure Power
 Speed Boost
@@ -7,7 +7,7 @@ Adaptability
 Shadow Tag
 Wonder Guard
 
-A: 10%
+SR:
 Levitate
 Magic Guard
 Intimidate
@@ -19,7 +19,7 @@ Serene Grace
 Snow Warning
 Natural Cure
 
-B:40%
+R:
 Water Absorb
 Thick Fat
 Hustle
@@ -31,7 +31,7 @@ Rain Dish
 Oblivious
 Rock Head
 
-C:45%
+Common:
 Swarm
 Water Veil
 Ice Body

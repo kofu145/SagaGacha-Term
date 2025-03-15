@@ -20,8 +20,8 @@ class ConsoleManager:
         self.transition_hold = transition_hold
 
     def color_text(self, text, bg_color, fg_color) -> str:
-        fg = colored.fg(fg_color) if fg_color != "none" else ""
-        bg = colored.bg(bg_color) if bg_color != "none" else ""
+        fg = colored.fg(fg_color) if fg_color not in ["none", None] else ""
+        bg = colored.bg(bg_color) if bg_color not in ["none", None] else ""
         text = colored.stylize(text, fg)
         text = colored.stylize(text, bg)
         return text
@@ -102,6 +102,13 @@ class ConsoleManager:
         center_str += "".join(" " for i in range(int((length - txtlen) / 2)))     
         return center_str
     
+    def center_multiline_text(self, text, length=0)-> str:
+        lines = text.split("\n")
+        final = ""
+        for line in lines:
+            final += self.center_text(line, length)
+            final += "\n"
+        return final
     def offset_align_text(self, text, offset, length=0):
         cols, lines = self.get_window_size()
         length = cols if length == 0 else length
@@ -115,6 +122,11 @@ class ConsoleManager:
 
     def clear(self):
         os.system('cls' if os.name == 'nt' else 'clear')
+
+    def resize(self, rows, cols):
+        sys.stdout.write(f"\x1b[8;{rows};{cols}t")
+        #os.system(f"mode con cols={cols} lines={rows}")
+
     
     def transition_clear(self, transition: Transition):
         clear_char = self.color_text(" ", "white", "none")
@@ -150,6 +162,30 @@ class ConsoleManager:
         print(banner_str)
         print(center_str)
         print(banner_str)
+
+    def boxed_text(self, text, spacing=3, height_spacing=1, length_char="=", height_char="|", corner_char="+", explicit_len=0) -> str:
+        lines = text.split("\n")
+        max = 0
+        for i in lines:
+            if len(self.cull_ansi(i)) > max:
+                max = len(self.cull_ansi(i))        
+        max_len = max + (spacing*2)
+        if explicit_len > 0:
+            max_len = explicit_len + (spacing*2)
+        height_line = height_char + " " * max_len + height_char + "\n"
+
+        box_text = corner_char + length_char * max_len + corner_char + "\n"
+        box_text += height_line * height_spacing
+
+        for line in lines:
+            end_spacing = " " * (max_len - len(self.cull_ansi(line)) - spacing)
+            box_text += height_char + " " * spacing + line + end_spacing + height_char + "\n"
+
+        box_text += height_line * height_spacing
+        box_text += corner_char + length_char * max_len + corner_char
+
+        return box_text
+
 
     # return format is columns, rows
     def get_window_size(self) -> tuple[int, int]:
